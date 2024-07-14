@@ -50,14 +50,14 @@
 <br/> 
 
 <div align="center">
-<a align=top href="[https://github.com/zoxidjoon]">
+<a align=top href="https://github.com/zoxidjoon">
     <img align=top src="https://github-stats-alpha.vercel.app/api?username=zoxidjoon&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="192px">
 </a>
 <a align=top href="https://github.com/giocoal">
-    <img align=top alt="zoxidjoon's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zoxidjoon&langs_count=8&theme=react&hide_border=true&bg_color=22272e&title_color=37BCF6&icon_color=fff&bc=0000&hide=tex,Jupyter%20Notebook" height="192px"/></a>                                                                                                           
+    <img align=top alt="zokhidjon's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zoxidjoon&langs_count=8&theme=react&hide_border=true&bg_color=22272e&title_color=37BCF6&icon_color=fff&bc=0000&hide=tex,Jupyter%20Notebook" height="192px"/></a>                                                                                                           
 </div>
 
-</details> 
+</details>
 
 </br>
 
