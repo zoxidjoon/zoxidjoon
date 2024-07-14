@@ -17,7 +17,7 @@
 
 <div align="left" style="margin-top:20px;">
 
-* 📖 **Graduated** in **Math and Physics** @ [International House Tashkent]([https://iht.uz/en/home/]).
+* 📖 **Graduated** in **Math and Physics** @ [International House Tashkent](https://iht.uz/en/home/).
 * 📍 I'm from Uzbekistan, living in Tashkent. 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
@@ -60,5 +60,20 @@
 </details> 
 
 </br>
+
+📋 **Languages**  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+
+🖥️ **Libraries**  ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+
+💻 **IDEs/Editors**  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+
+<div align="center">
+<img align=top src="./Images/tumblr_11d365a49f6f66dee03353309bf82414_8f4b05ff_540.gif" height="192px">
+</br>
+<i><q>That’s what the world is, after all: an endless battle of contrasting memories.</q></i>
+</div> 
 
 
