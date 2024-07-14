@@ -70,6 +70,8 @@
 💻 **IDEs/Editors**  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 
+</br>
+
 <div align="center">
 <img align=top src="./Images/tumblr.gif" height="192px">
 </br>
