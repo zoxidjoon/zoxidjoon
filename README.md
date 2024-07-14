@@ -13,4 +13,52 @@
 
 <br clear="left"/>
 
+---
+
+<div align="left" style="margin-top:20px;">
+
+* 📖 **Graduated** in **Math and Physics** @ [International House Tashkent]([https://iht.uz/en/home/]).
+* 📍 I'm from Uzbekistan, living in Tashkent. 
+* 💡 Open to collaborating on projects and innovative ideas. 
+
+</div>
+
+<!-- connect with me -->
+
+<h4 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px"></h4>
+<div align="center">
+<a href="https://www.linkedin.com/in/zohidjon-olimjonov-2b8b10302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zohidjonolimjonov" height="20" width="20,7" /></a> 
+<a href="zokhid06@gmail.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="zohidjonolimjonov" height="30" width="40" /></a>
+<a href="https://github.com/zoxidjoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zohidjonolimjonov" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/olimjonovzohidjon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zohidjonolimjonov" height="20" width="26,7" /></a>
+</div>
+
+<!-- languages -->
+
+<h4 align="center">Languages &nbsp<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="28px"></h4>
+<div align="center">
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>    
+</div>
+
+<br/> 
+
+<details open> 
+<summary><b>:octocat:	&nbsp;&nbsp;Github Stats</b></summary>
+
+<br/> 
+
+<div align="center">
+<a align=top href="[https://github.com/zoxidjoon]">
+    <img align=top src="https://github-stats-alpha.vercel.app/api?username=giocoal&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="192px">
+</a>
+<a align=top href="https://github.com/giocoal">
+    <img align=top alt="zoxidjoon's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zoxidjoon&langs_count=8&theme=react&hide_border=true&bg_color=22272e&title_color=37BCF6&icon_color=fff&bc=0000&hide=java,scss,javascript,tex,ruby,shell,Jupyter%20Notebook" height="192px"/></a>                                                                                                           
+</div>
+
+</details> 
+
+</br>
+
 
