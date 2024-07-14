@@ -71,7 +71,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 
 <div align="center">
-<img align=top src="./Images/tumblr_11d365a49f6f66dee03353309bf82414_8f4b05ff_540.gif" height="192px">
+<img align=top src="./Images/tumblr.gif" height="192px">
 </br>
 <i><q>That’s what the world is, after all: an endless battle of contrasting memories.</q></i>
 </div> 
