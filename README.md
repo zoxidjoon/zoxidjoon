@@ -23,6 +23,13 @@
 
 </div>
 
+
+<h4 align="center">My Resume</h4>
+<div align="center">
+<a href="https://giocoal.github.io/minimal-portfolio/pdf/Carbone_Giorgio_CV_eng.pdf" target="blank"><img align="center" src="https://img.icons8.com/office/512/parse-from-clipboard.png" alt="zohidjonolimjonovCV" height="30" width="30" /></a>
+</div>
+
+
 <!-- connect with me -->
 
 <h4 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px"></h4>
